@@ -88,8 +88,8 @@ img {
 	color : #4E4F3E;
 	text-decoration : none;
 }
-table {
-	border:5px solid;
+table, th, td {
+	border:2px solid;
 	
 }
 iframe {
