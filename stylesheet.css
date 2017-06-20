@@ -88,8 +88,9 @@ img {
 	color : #4E4F3E;
 	text-decoration : none;
 }
-#table {
-	margin: 0px 0px 30px 175px;
+table {
+	border: 5px solid black;
+	
 }
 iframe {
 	margin-left : 50px;
